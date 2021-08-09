@@ -44,7 +44,6 @@ generate.addEventListener('click', (e)=> {
     }
 
     ps.value = password;
-    console.log(password);
 })
 
 lengthEl.addEventListener('change', (e) => {
